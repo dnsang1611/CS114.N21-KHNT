@@ -12,3 +12,5 @@
 - [x] Step 3: Bật terminal và chạy lệnh: "streamlit run app.py".
 - [x] Step 4: Bạn có thể tự nhập 1 câu hoặc sử dụng 1 file data để dự đoán và chờ kết quả trả về.
 
+# [Link drive demo code](https://drive.google.com/file/d/1jBnLt40cLT-fJHor8RNII1FC9hBKtBTl/view?usp=sharing)
+
