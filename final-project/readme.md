@@ -24,7 +24,7 @@
 * **Mã môn học:** CS114
 * **Mã lớp:** CS114.N21
 * **Năm học:** HK1 (2022 - 2023)
-* **Giảng viên**: Lê Đình Duy & Phạm Nguyễn Trường An
+* **Giảng viên**: Ths. Phạm Nguyễn Trường An & PGS.TS. Lê Đình Duy  
 
 ## ĐỒ ÁN CUỐI KỲ
 * **Tên đồ án: ASPECT-BASED SENTIMENT ANALYSIS CHO BÌNH LUẬN TIẾNG VIỆT VỀ CHỦ ĐỀ SMARTPHONE TRÊN CÁC TRANG THƯƠNG MẠI ĐIỆN TỬ** 
